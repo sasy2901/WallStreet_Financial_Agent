@@ -20,6 +20,7 @@ graph TD
 
     style Router fill:#f9f,stroke:#333,stroke-width:2px
     style LLM fill:#bbf,stroke:#333,stroke-width:2px
+```
 🚀 Key Features
 Orchestration: Intelligent routing between RAG and LLM inference.
 
