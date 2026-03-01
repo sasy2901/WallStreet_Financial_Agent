@@ -45,4 +45,4 @@ pip install -r requirements.txt
 # 2. Run the Inference Server
 python deployment.py
 👨‍💻 Developer
-Sahil Rana | Data Science & AI Enthusiast
+👨‍💻 Developer: Sahil Rana | Senior Machine Learning Engineer
